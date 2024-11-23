@@ -1,1 +1,2 @@
 rustack/target/debug/*
+rustack/target/.rustc_info.json
