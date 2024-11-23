@@ -1,2 +1,2 @@
-rustack/target/debug/*
-rustack/target/.rustc_info.json
+debug/
+.rustc_info.json
