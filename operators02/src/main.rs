@@ -16,7 +16,7 @@ fn main() {
                     }
                 }
             }
-            println!("stack: {stack:?}")
+            println!("stack: {stack:?}");
         }
     }
 }
